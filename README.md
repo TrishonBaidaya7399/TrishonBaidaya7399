@@ -45,13 +45,68 @@
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/mongo.png?raw=true"/>
 </p><br/>
 
-## Current overview
+## Recent Projects
 
-### 🔭 I’m working - As a Freelancer. 
-### 🌱 I’m exploring - the advanced Topic of Web and Technology. 
-### 👯 I’m looking - To collaborate on different web projects. 
-### 🤔 I’m trying - To help myself learn new web technologies. 
-### ⚡ Fun fact - I love to make different complex websites.
+## Project 1
+
+<a href="[Your Project Live Link]">
+  <img src="[Your Banner Image Link]" />
+</a>
+
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+- React
+- Firebase
+
+**Description:**
+Specializing in MERN stack development, this project showcases my expertise in creating dynamic and responsive user interfaces. Leveraging the power of React and Firebase, I've crafted a seamless web experience that emphasizes clean code and innovative solutions.
+
+**Featured:**
+[Your Featured Content or Highlight of the Project]
+
+---
+
+## Project 2
+
+<a href="[Your Project Live Link]">
+  <img src="[Your Banner Image Link]" />
+</a>
+
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+
+**Description:**
+Another example project description highlighting the key technologies and aspects of your work.
+
+**Featured:**
+[Your Featured Content or Highlight of the Project]
+
+---
+
+## Project 3
+
+<a href="[Your Project Live Link]">
+  <img src="[Your Banner Image Link]" />
+</a>
+
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+- [Additional Technologies]
+
+**Description:**
+Yet another project description focusing on the unique aspects and technologies involved in this specific project.
+
+**Featured:**
+[Your Featured Content or Highlight of the Project]
 
 
 <br />
