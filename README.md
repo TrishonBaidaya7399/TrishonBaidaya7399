@@ -47,66 +47,58 @@
 
 ## Recent Projects
 
-## Project 1
+## Blood Donation MERN Web APP
 
-<a href="[Your Project Live Link]">
-  <img src="[Your Banner Image Link]" />
+<a href="https://bldonors.web.app/">
+  <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/bldonors%20banner.jpg?raw=true" />
 </a>
 
 **Technologies Used:**
-- HTML
-- CSS
-- JavaScript
-- React
-- Firebase
-
-**Description:**
-Specializing in MERN stack development, this project showcases my expertise in creating dynamic and responsive user interfaces. Leveraging the power of React and Firebase, I've crafted a seamless web experience that emphasizes clean code and innovative solutions.
+- React, Node, Express, JWT, HTML, CSS, JS
+- MongoDB, Firebase
+- Tailwind CSS, DaisyUI, MaterialUI, Tanstack
 
 **Featured:**
-[Your Featured Content or Highlight of the Project]
+- Varied Roles: Donor, Volunteer, Admin panels
+- Specific Search: Individual donation request search
+- Robust Authentication: JWT verification for security
+- Secure Transactions: Donation page for funding
 
 ---
 
-## Project 2
+## Private Social Media MERN Web APP
 
-<a href="[Your Project Live Link]">
-  <img src="[Your Banner Image Link]" />
+<a href="https://terii-media.netlify.app/">
+  <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/terii%20banner.jpg?raw=true" />
 </a>
 
 **Technologies Used:**
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-
-**Description:**
-Another example project description highlighting the key technologies and aspects of your work.
+- React, Node, Express, HTML, CSS, JS
+- MongoDB, Firebase
+- Bootstrap5
 
 **Featured:**
-[Your Featured Content or Highlight of the Project]
+- Exclusive Access: Restricts usage to authorized email IDs, ensuring controlled utilization.
+- Administrative Empowerment: Admin panel for swift user role management.
+- Dynamic User Interaction: Enables post creation, deletion, and interaction.
 
 ---
 
-## Project 3
+## Library Management MERN Web APP
 
-<a href="[Your Project Live Link]">
-  <img src="[Your Banner Image Link]" />
+<a href="https://book-shelf-library-management.web.app/">
+  <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/bookshelf%20banner.jpg?raw=true" />
 </a>
 
 **Technologies Used:**
-- HTML
-- CSS
-- JavaScript
-- [Additional Technologies]
-
-**Description:**
-Yet another project description focusing on the unique aspects and technologies involved in this specific project.
+- React, Node, Express, JWT, HTML, CSS, JS
+- MongoDB, Firebase
+- Tailwind CSS, DaisyUI
 
 **Featured:**
-[Your Featured Content or Highlight of the Project]
+- Varied Roles: User, Admin
+- Specific Search: Search By Book Category
+- Main Feature: Borrow Books, Return Books, Read Books Online
 
 
 <br />
