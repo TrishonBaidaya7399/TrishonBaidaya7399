@@ -40,11 +40,11 @@
 
 ## Current overview
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### 🔭 I’m working - As a Freelancer. 
+### 🌱 I’m exploring - the advanced Topic of Web and Technology. 
+### 👯 I’m looking - To collaborate on different web projects. 
+### 🤔 I’m trying - To help myself learn new web technologies. 
+### ⚡ Fun fact - I love to make different complex websites.
 
 
 <br />
