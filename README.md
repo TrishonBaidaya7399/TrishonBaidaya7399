@@ -2,6 +2,13 @@
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Github%20Banner.png?raw=true" />
 </a>
 
+## Description
+
+<br />
+<p align="center">
+  Specializing in MERN (MongoDB, Express.js, React.js, Node.js) stack development, I design and build robust web applications. My work involves creating dynamic and responsive user interfaces, optimizing server-side functionalities, and leveraging the power of MongoDB for efficient data management. With a passion for clean code and innovative solutions, I bring ideas to life in the ever-evolving landscape of MERN development. Let's connect and elevate your web experience together!
+</p>
+
 ## Current Stats
 
 <br />
