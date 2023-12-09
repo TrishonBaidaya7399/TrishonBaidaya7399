@@ -39,6 +39,7 @@
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/express.png?raw=true"/>
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/mongo.png?raw=true"/>
 </p><br/>
+
 ## Contact Me
 
 Feel free to reach out to me through various channels. I'm always open to connecting and discussing interesting opportunities.
