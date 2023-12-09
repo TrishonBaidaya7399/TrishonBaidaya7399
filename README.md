@@ -20,7 +20,7 @@
 
 <br />
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TrishonBaidaya7399&theme=default" alt="GitHub Streak" /></a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TrishonBaidaya7399&theme=default" alt="GitHub Streak" />
 </p>
 
 ## Profile Details
