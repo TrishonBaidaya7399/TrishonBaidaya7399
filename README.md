@@ -32,7 +32,7 @@ Feel free to reach out to me through various channels. I'm always open to connec
 
 <br />
 
-<p align="center">
+<p align="left">
   <!-- Email -->
   <a href="mailto:shukantobaidya2018@gmail.com">
     <img width="50px" height="50px" src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Gmail%20logo.png?raw=true" alt="Email"/>
@@ -44,10 +44,6 @@ Feel free to reach out to me through various channels. I'm always open to connec
   <!-- Twitter -->
   <a href="https://twitter.com/BaidayaShontu">
     <img width="50px" height="50px" src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Twitter%20logo.png?raw=true" alt="Twitter"/>
-  </a>
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/channel/UCuwiAzRSiUZMaWLpEeA_RBQ">
-    <img width="50px" height="50px" src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Youtube%20logo.png?raw=true" alt="YouTube"/>
   </a>
 </p>
 
