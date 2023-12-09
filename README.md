@@ -32,6 +32,14 @@ Feel free to reach out to me through various channels. I'm always open to connec
 
 <br />
 ### Email
+<p align="center">
+<a href="mailto:shukantobaidya2018@gmail.com">
+  <img width="50px" height="50px" src="[https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/HTML.png?raw=true](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Gmail%20logo.png?raw=true)"/>
+</a>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/css.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/JavaScript.png?raw=true"/>
+
+</p>
 [![Email](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Gmail%20logo.png?raw=true)](mailto:shukantobaidya2018@gmail.com)
 - 📧 Email: [shukantobaidya2018@gmail.com](mailto:shukantobaidya2018@gmail.com)
 
