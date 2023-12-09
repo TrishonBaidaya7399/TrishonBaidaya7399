@@ -1,6 +1,4 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Github%20Banner.png?raw=true" />
-</a>
 
 ## Description
 
