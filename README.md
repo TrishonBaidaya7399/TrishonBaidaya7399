@@ -26,6 +26,21 @@
 </p>
 
 
+## Technologies
+
+<br>
+<p align="center">
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/HTML.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/css.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/JavaScript.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/react.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/tailwind.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Bootsrap.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/firebase.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/node.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/express.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/mongo.png?raw=true"/>
+</p><br/>
 ## Contact Me
 
 Feel free to reach out to me through various channels. I'm always open to connecting and discussing interesting opportunities.
@@ -52,30 +67,6 @@ Feel free to reach out to me through various channels. I'm always open to connec
 - 📞 Phone: +88 01636132554
 
 Feel free to connect with me on social media or drop me an email. I'm excited to hear from you!
-
-
-
-## Technologies
-
-<br>
-<p align="center">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/HTML.png?raw=true"/>
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/css.png?raw=true"/>
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/JavaScript.png?raw=true"/>
-
-</p>
-<p align="center">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/react.png?raw=true"/>
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/tailwind.png?raw=true"/>
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Bootsrap.png?raw=true"/>
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/firebase.png?raw=true"/>
-</p>
-<p align="center">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/node.png?raw=true"/>
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/express.png?raw=true"/>
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/mongo.png?raw=true"/>
-</p><br/>
-
 ## Recent Projects
 
 ## Blood Donation MERN Web APP
