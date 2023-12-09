@@ -33,14 +33,18 @@ Feel free to reach out to me through various channels. I'm always open to connec
 <br />
 
 ### Email
+[![Email](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Gmail%20logo.png?raw=true)](mailto:shukantobaidya2018@gmail.com)
 - 📧 Email: [shukantobaidya2018@gmail.com](mailto:shukantobaidya2018@gmail.com)
 
 ### Social Media
-- 💼 LinkedIn: [Trishon Baidaya](https://www.linkedin.com/in/trishon-baidaya-shontu/)
-  ![LinkedIn](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Linkedin.png?raw=true)
+[![LinkedIn](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Linkedin%20logo.png?raw=true)](https://www.linkedin.com/in/trishon-baidaya-shontu/)
+- 💼 LinkedIn: Trishon Baidaya
 
-- 🐦 Twitter: [@BaidayaShontu](https://twitter.com/BaidayaShontu)
-  ![Twitter](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Twitter.png?raw=true)
+[![Twitter](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Twitter%20logo.png?raw=true)](https://twitter.com/BaidayaShontu)
+- 🐦 Twitter: @BaidayaShontu
+
+[![YouTube](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Youtube%20logo.png?raw=true)](https://www.youtube.com/channel/UCuwiAzRSiUZMaWLpEeA_RBQ)
+- 🎥 YouTube: Your YouTube Channel
 
 ### Local & Phone
 - 📍 Location: Bishaw Bank R/A, I-block, Akberhsah, Chattogram, Bangladesh
