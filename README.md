@@ -31,7 +31,6 @@
 Feel free to reach out to me through various channels. I'm always open to connecting and discussing interesting opportunities.
 
 <br />
-
 ### Email
 [![Email](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Gmail%20logo.png?raw=true)](mailto:shukantobaidya2018@gmail.com)
 - 📧 Email: [shukantobaidya2018@gmail.com](mailto:shukantobaidya2018@gmail.com)
