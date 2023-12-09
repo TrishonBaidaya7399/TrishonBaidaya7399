@@ -31,33 +31,32 @@
 Feel free to reach out to me through various channels. I'm always open to connecting and discussing interesting opportunities.
 
 <br />
-### Email
+
 <p align="center">
-<a href="mailto:shukantobaidya2018@gmail.com">
-  <img width="50px" height="50px" src="[https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/HTML.png?raw=true](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Gmail%20logo.png?raw=true)"/>
-</a>
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/css.png?raw=true"/>
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/JavaScript.png?raw=true"/>
-
+  <!-- Email -->
+  <a href="mailto:shukantobaidya2018@gmail.com">
+    <img width="50px" height="50px" src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Gmail%20logo.png?raw=true" alt="Email"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/trishon-baidaya-shontu/">
+    <img width="50px" height="50px" src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Linkedin%20logo.png?raw=true" alt="LinkedIn"/>
+  </a>
+  <!-- Twitter -->
+  <a href="https://twitter.com/BaidayaShontu">
+    <img width="50px" height="50px" src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Twitter%20logo.png?raw=true" alt="Twitter"/>
+  </a>
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/channel/UCuwiAzRSiUZMaWLpEeA_RBQ">
+    <img width="50px" height="50px" src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Youtube%20logo.png?raw=true" alt="YouTube"/>
+  </a>
 </p>
-[![Email](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Gmail%20logo.png?raw=true)](mailto:shukantobaidya2018@gmail.com)
-- 📧 Email: [shukantobaidya2018@gmail.com](mailto:shukantobaidya2018@gmail.com)
-
-### Social Media
-[![LinkedIn](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Linkedin%20logo.png?raw=true)](https://www.linkedin.com/in/trishon-baidaya-shontu/)
-- 💼 LinkedIn: Trishon Baidaya
-
-[![Twitter](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Twitter%20logo.png?raw=true)](https://twitter.com/BaidayaShontu)
-- 🐦 Twitter: @BaidayaShontu
-
-[![YouTube](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Youtube%20logo.png?raw=true)](https://www.youtube.com/channel/UCuwiAzRSiUZMaWLpEeA_RBQ)
-- 🎥 YouTube: Your YouTube Channel
 
 ### Local & Phone
 - 📍 Location: Bishaw Bank R/A, I-block, Akberhsah, Chattogram, Bangladesh
 - 📞 Phone: +88 01636132554
 
 Feel free to connect with me on social media or drop me an email. I'm excited to hear from you!
+
 
 
 ## Technologies
