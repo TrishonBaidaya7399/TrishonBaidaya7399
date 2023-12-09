@@ -16,15 +16,6 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TrishonBaidaya7399&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
-## Summery
-
-<br />
-<p align="center">
-   <a href="https://git.io/streak-stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TrishonBaidaya7399&theme=default" alt="GitHub Streak" />
-   </a>
-</p>
-
 ## Profile Details
 
 <br />
@@ -37,11 +28,26 @@
 
 ## Contact Me
 
-<br />
-
-[<p align="center"><img height="75" src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Linkedin.png?raw=true">](https://www.linkedin.com/in/trishon-baidaya-shontu/)[<img height="75" src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Twitter.png?raw=true"> </p>](https://twitter.com/BaidayaShontu)
+Feel free to reach out to me through various channels. I'm always open to connecting and discussing interesting opportunities.
 
 <br />
+
+### Email
+- 📧 Email: [shukantobaidya2018@gmail.com](mailto:shukantobaidya2018@gmail.com)
+
+### Social Media
+- 💼 LinkedIn: [Trishon Baidaya](https://www.linkedin.com/in/trishon-baidaya-shontu/)
+  ![LinkedIn](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Linkedin.png?raw=true)
+
+- 🐦 Twitter: [@BaidayaShontu](https://twitter.com/BaidayaShontu)
+  ![Twitter](https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Twitter.png?raw=true)
+
+### Local & Phone
+- 📍 Location: Bishaw Bank R/A, I-block, Akberhsah, Chattogram, Bangladesh
+- 📞 Phone: +88 01636132554
+
+Feel free to connect with me on social media or drop me an email. I'm excited to hear from you!
+
 
 ## Technologies
 
