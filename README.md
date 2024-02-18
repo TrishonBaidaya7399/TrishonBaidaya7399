@@ -1,4 +1,5 @@
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Github%20Banner.png?raw=true" />
+<!-- <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Github%20Banner.png?raw=true" /> -->
+<img src="https://i.ibb.co/SQyRdGY/Black-Belt-Programming-Hero.jpg" />
 
 ## Description
 
