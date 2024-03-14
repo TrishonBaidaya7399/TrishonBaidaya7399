@@ -33,7 +33,14 @@
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/css.png?raw=true"/>
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/JavaScript.png?raw=true"/>
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/react.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/NextJS.png?raw=true"/>
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/tailwind.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Daisy-UI-logo.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/MUI.jpg?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Materia-Tailwind-Logo.jpg?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/SASS-logo.png?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/jwt.jpg?raw=true"/>
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/redux.jpg?raw=true"/>
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Bootsrap.png?raw=true"/>
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/firebase.png?raw=true"/>
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/node.png?raw=true"/>
