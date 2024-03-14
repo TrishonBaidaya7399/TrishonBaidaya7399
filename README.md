@@ -33,8 +33,6 @@
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/css.png?raw=true"/>
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/JavaScript.png?raw=true"/>
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/react.png?raw=true"/>
-<img src="https://i.ibb.co/F5VXxrd/cropped-image.png"/>
-<img src="https://i.ibb.co/RcSj9Np/SASS-logo.png"/>
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/tailwind.png?raw=true"/>
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Bootsrap.png?raw=true"/>
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/firebase.png?raw=true"/>
