@@ -29,14 +29,14 @@
 
 <br>
 <p align="center">
- <div style="display: flex; gap: 10px; flex-wrap: wrap">
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
     <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-  <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/HTML.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-  <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/css.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
+      <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/HTML.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;" alt="HTML"/>
+    </div>
+    <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
+      <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/css.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;" alt="CSS"/>
+    </div>
+    <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
   <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/JavaScript.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
   </div>
   <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
@@ -81,8 +81,7 @@
   <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/mongo.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
   </div>
- </div>
-  
+  </div>
 </p><br/>
 
 ## Contact Me
