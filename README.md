@@ -28,7 +28,7 @@
 ## Technologies
 
 <br>
-<p align="center">
+<p align="left">
   <div style="display: flex; flex-direction: row ; gap: 10px; flex-wrap: wrap; justify-content: center;">
     <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
       <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/HTML.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;" alt="HTML"/>
