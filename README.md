@@ -28,7 +28,7 @@
 ## Technologies
 
 <br>
-<p align="center">
+<div style = "display: flex; align-items: center; justify-content: center; gap: 10px; margin-inline: 20px">
     <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
       <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/HTML.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;" alt="HTML"/>
     </div>
@@ -80,7 +80,7 @@
   <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
 <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/mongo.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
   </div>
-</p><br/>
+</div><br/>
 
 ## Contact Me
 
