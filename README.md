@@ -26,7 +26,16 @@
 
 
 ## Technologies
-
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,node,bootstrap,tailwind,c,c++,java,,firebase,materialui,mantine,scss,daisyui,redux,reduxtoolkit,antdesign" />
+  </a>
+</p>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=express,mongodb,figma,git,github" />
+  </a>
+</p>
 <br>
 <div style = "display: flex; align-items: center; justify-content: center; gap: 10px; margin-inline: 20px">
     <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
