@@ -28,7 +28,7 @@
 ## Technologies
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,bootstrap,tailwind,c,java,firebase,materialui,scss,daisyui,redux,photoshop" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,bootstrap,tailwind,c,java,firebase,materialui,scss,redux,photoshop" />
   </a>
 </p>
 <p align="center">
@@ -37,59 +37,6 @@
   </a>
 </p>
 <br>
-<div style = "display: flex; align-items: center; justify-content: center; gap: 10px; margin-inline: 20px">
-    <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-      <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/HTML.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;" alt="HTML"/>
-    </div>
-    <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-      <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/css.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;" alt="CSS"/>
-    </div>
-    <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-  <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/JavaScript.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-  <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/react.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-    <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/NextJS.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/tailwind.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Daisy-UI-logo.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/MUI.jpg?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Materia-Tailwind-Logo.jpg?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/SASS-logo.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/jwt.jpg?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/redux.jpg?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Bootsrap.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/firebase.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/node.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/express.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-  <div style="width: 60px; height: 60px; border-radius: 10px; overflow: hidden; margin: 5px;">
-<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/mongo.png?raw=true" style="width: 60px; height: 60px; object-fit: cover;"/>
-  </div>
-</div><br/>
 
 ## Contact Me
 
