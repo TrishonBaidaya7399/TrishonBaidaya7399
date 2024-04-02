@@ -28,7 +28,12 @@
 ## Technologies
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vite,bootstrap,tailwind,c,java,firebase,materialui,scss,photoshop" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vite,bootstrap" />
+  </a>
+</p>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=tailwind,c,java,firebase,materialui,scss,photoshop" />
   </a>
 </p>
 <p align="center">
