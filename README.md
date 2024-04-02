@@ -28,12 +28,12 @@
 ## Technologies
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,bootstrap,tailwind,c,java,firebase,materialui,scss,redux,photoshop" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,githubreact,nodejs,vite,bootstrap,tailwind,c,java,firebase,materialui,scss,photoshop" />
   </a>
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=express,mongodb,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux" />
   </a>
 </p>
 <br>
