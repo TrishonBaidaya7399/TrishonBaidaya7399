@@ -28,7 +28,7 @@
 ## Technologies
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,react,nodejs,express,scss," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,react,nodejs,express,scss" />
   </a>
 </p>
 
