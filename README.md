@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,firebase,mongodb,,redux,photoshop" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,firebase,mongodb,redux,photoshop" />
   </a>
 </p>
 
