@@ -28,13 +28,13 @@
 ## Technologies
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,react,nodejs,express,mongodb,redux,scss," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,react,nodejs,express,scss," />
   </a>
 </p>
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,firebase,photoshop" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,firebase,mongodb,,redux,photoshop" />
   </a>
 </p>
 
