@@ -28,17 +28,19 @@
 ## Technologies
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vite,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,react,nodejs,express,mongodb,redux,scss," />
   </a>
 </p>
+
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=tailwind,c,java,firebase,materialui,scss,photoshop" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,firebase,photoshop" />
   </a>
 </p>
+
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux" />
+    <img src="https://skillicons.dev/icons?i=tailwind,materialui,vite,bootstrap" />
   </a>
 </p>
 <br>
