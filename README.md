@@ -28,27 +28,28 @@
 ## Technologies
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,twitter,bootstrap,tailwind,materialui,vite,vscode" />
   </a>
 </p>
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,typescript,scss" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,typescript,redux,mongodb" />
   </a>
 </p>
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,firebase,mongodb,redux,photoshop" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java" />
   </a>
 </p>
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=tailwind,materialui,vite,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,prisma,postman,figma" />
   </a>
 </p>
+
 <br>
 
 ## Contact Me
