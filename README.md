@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,twitter,bootstrap,tailwind,materialui,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,ps,bootstrap,tailwind,materialui,vite,vscode" />
   </a>
 </p>
 
