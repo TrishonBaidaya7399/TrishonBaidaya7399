@@ -28,7 +28,13 @@
 ## Technologies
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,twitter,bootstrap,tailwind,materialui,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,prisma,postman,figma" />
   </a>
 </p>
 
@@ -40,15 +46,10 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,twitter,bootstrap,tailwind,materialui,vite,vscode" />
   </a>
 </p>
 
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=git,github,firebase,prisma,postman,figma" />
-  </a>
-</p>
 
 <br>
 
