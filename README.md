@@ -16,24 +16,30 @@
 </p>
 
 
-<p align="center">
-  <table>
-    <tr>
-      <!-- GitHub Streak Stats -->
-      <td>
-        <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=TrishonBaidaya7399&theme=onedark&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
-        </a>
-      </td>
-      <!-- Top Languages -->
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrishonBaidaya7399&layout=compact&theme=onedark" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+<!-- Container to center everything -->
+<div align="center">
+  <!-- First block: Streak -->
+  <div style="display: inline-block; margin: 20px;">
+    <h2 style="border-bottom: 2px solid #444; margin-bottom: 10px;">Current Stats</h2>
+    <a href="https://git.io/streak-stats">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com?user=TrishonBaidaya7399&theme=onedark&date_format=j%20M%5B%20Y%5D&mode=weekly"
+        alt="GitHub Streak"
+      />
+    </a>
+  </div>
+
+  <!-- Second block: Top Languages -->
+  <div style="display: inline-block; margin: 20px;">
+    <h2 style="border-bottom: 2px solid #444; margin-bottom: 10px;">Most Used Languages</h2>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrishonBaidaya7399&layout=compact&theme=onedark"
+        alt="Top Languages"
+      />
+    </a>
+  </div>
+</div>
 
 
 ## Profile Details
