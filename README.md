@@ -16,30 +16,24 @@
 </p>
 
 
-<!-- Container to center everything -->
-<div align="center">
-  <!-- First block: Streak -->
-  <div style="display: inline-block; margin: 20px;">
-    <h2 style="border-bottom: 2px solid #444; margin-bottom: 10px;">Current Stats</h2>
-    <a href="https://git.io/streak-stats">
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com?user=TrishonBaidaya7399&theme=onedark&date_format=j%20M%5B%20Y%5D&mode=weekly"
-        alt="GitHub Streak"
-      />
-    </a>
-  </div>
+## Current Stats
 
-  <!-- Second block: Top Languages -->
-  <div style="display: inline-block; margin: 20px;">
-    <h2 style="border-bottom: 2px solid #444; margin-bottom: 10px;">Most Used Languages</h2>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrishonBaidaya7399&layout=compact&theme=onedark"
-        alt="Top Languages"
-      />
-    </a>
-  </div>
-</div>
+<br />
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TrishonBaidaya7399&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=onedark" alt="GitHub Streak" /></a>
+</p>
+
+## Most Used Languages
+
+<br />
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrishonBaidaya7399&layout=compact&theme=onedark"
+      alt="Top Languages"
+    />
+  </a>
+</p>
 
 
 ## Profile Details
