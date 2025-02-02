@@ -41,7 +41,7 @@
 <br />
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrishonBaidaya7399&theme=tokyonight" alt="GitHub Streak" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrishonBaidaya7399&theme=onedark" alt="GitHub Streak" />
   </a>
 </p>
 
