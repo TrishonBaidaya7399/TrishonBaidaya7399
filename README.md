@@ -20,7 +20,7 @@
 
 <br />
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TrishonBaidaya7399&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TrishonBaidaya7399&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=onedark" alt="GitHub Streak" /></a>
 </p>
 
 ## Most Used Languages
