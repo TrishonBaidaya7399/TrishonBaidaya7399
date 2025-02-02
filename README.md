@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrishonBaidaya7399&layout=pie"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrishonBaidaya7399&layout=pie&theme=onedark"
       alt="Top Languages"
     />
   </a>
