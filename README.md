@@ -19,8 +19,14 @@
 
 <br />
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrishonBaidaya7399)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrishonBaidaya7399"
+      alt="Top Languages"
+    />
+  </a>
 </p>
+
 
 ## Profile Details
 
