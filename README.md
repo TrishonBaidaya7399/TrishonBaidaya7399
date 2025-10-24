@@ -5,7 +5,7 @@
 
 <br />
 <p align="left">
-  Specializing in MERN (React.js, Next.js, Typescript, Node.js, mongoose, Express, MongoDB) stack development, I design and build robust web applications. My work involves creating dynamic and responsive user interfaces, optimizing server-side functionalities, and leveraging the power of MongoDB for efficient data management. With a passion for clean code and innovative solutions, I bring ideas to life in the ever-evolving landscape of MERN development. Let's connect and elevate your web experience together!
+  Specializing in MERN (React.js, Next.js, Typescript, Node.js, mongoose, Express, MongoDB) stack development, I design and build robust web applications. My work involves creating dynamic and responsive user interfaces, optimizing server-side functionalities, and leveraging the power of MongoDB for efficient data management. With a passion for clean code and innovative solutions, I bring ideas to life in the ever-evolving landscape of MERN development. Let's connect and elevate your web experience together.
 </p>
 
 <br />
